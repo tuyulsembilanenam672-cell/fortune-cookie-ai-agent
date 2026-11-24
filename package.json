@@ -1,0 +1,1 @@
+{"description":"One funny fortune cookie line for an AI agent (make.fun bounty)","license":"MIT","name":"fortune-cookie-ai-agent","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
